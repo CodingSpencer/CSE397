@@ -1,0 +1,6 @@
+Version Control
+- Simplify changes and try to avoid deleting/not deleting what's needed
+- Small risk, but most can be avoided
+
+
+
